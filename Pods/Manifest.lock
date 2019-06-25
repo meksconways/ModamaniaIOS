@@ -1,0 +1,72 @@
+PODS:
+  - Alamofire (5.0.0-beta.6)
+  - CropViewController (2.4.0)
+  - Kingfisher (5.4.0)
+  - LGButton (1.1.6)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxKeyboard (0.9.0):
+    - RxCocoa (>= 4.3.1)
+    - RxSwift (>= 4.3.1)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SkyFloatingLabelTextField (3.7.0)
+  - SnapKit (5.0.0)
+  - SPFakeBar (1.0.6)
+  - SPStorkController (1.6.2)
+  - SVProgressHUD (2.2.5)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - CropViewController
+  - Kingfisher (~> 5.0)
+  - LGButton
+  - RxCocoa (~> 5)
+  - RxKeyboard
+  - RxSwift (~> 5)
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SnapKit (~> 5.0.0)
+  - SPFakeBar
+  - SPStorkController
+  - SVProgressHUD
+  - XLPagerTabStrip (~> 9.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CropViewController
+    - Kingfisher
+    - LGButton
+    - RxCocoa
+    - RxKeyboard
+    - RxRelay
+    - RxSwift
+    - SkyFloatingLabelTextField
+    - SnapKit
+    - SPFakeBar
+    - SPStorkController
+    - SVProgressHUD
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: cd08a4402bd12cacd0c66f23fb12fec8d6b965e4
+  CropViewController: a090820b15fc3da68e694d7c192a4708c576828b
+  Kingfisher: 9c8f2cc6710334e06f32ba2b45e77707d5e2f0c9
+  LGButton: 9f0a7f9d3030e3f504108342f6b66d64a429371b
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxKeyboard: 4f782303f499f41577b41c96c6a9a5d7acd51a47
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SkyFloatingLabelTextField: 4b46db0ab1ccde0919cded29c656e6b4805eda04
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  SPFakeBar: 0f9f17c1d4f1702fd48c594b0535486c5924394e
+  SPStorkController: 9c008b846b342d817366d0005897c5e1f8febddb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 0d913cd963974789fca45496be8796aaef8c2dc0
+
+COCOAPODS: 1.5.3
